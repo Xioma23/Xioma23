@@ -1,9 +1,8 @@
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Xiomara%20Beatriz%20Alan%20Lombardi;Front%20End%20Developer%20and%20Graphic%20Designer;Passionate%20about%20Art%2C%20History%20and%20Literature&font=Fira%20Code&center=true&width=500&height=45&color=E56E8A&vCenter=true&size=22" /></a>
-</p>
 
+<!-- Short description -->
+<p align="center">
+  I'm Xiomara, a front-end developer and graphic designer from Peru, passionate about history, literature, and art.
+</p>
 
 <!-- Technologies section -->
 <h3 align="center">Technologies I Use</h3>
@@ -32,6 +31,20 @@
   <img src="https://img.shields.io/badge/Customer%20Service-29A19C.svg?logo=customer-service&logoColor=white" alt="Customer Service" />
 </p>
 
+<h3 align="center">Experience</h3>
+<p align="center">
+  <strong>2025</strong> - Neurozett<br/>
+  Technical documentation of web projects, development, and formulation.<br/>
+  Tools: Starlight (Astro), Excalidraw, Obsidian.
+</p>
+<p align="center">
+  <strong>2024</strong> - Freelancer<br/>
+  Design of flyers, catalogs, and logos in Figma for various clients.
+</p>
+<p align="center">
+  <strong>2023</strong> - Call Center<br/>
+  Customer service in collections, strengthening social and communication skills.
+</p>
 
 <h3 align="center">Contact</h3>
 <p align="center">
