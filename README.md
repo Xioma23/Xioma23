@@ -1,8 +1,8 @@
 
 <!-- Short description -->
-<p align="center">
+<h2 align="center">
   I'm Xiomara, a front-end developer and graphic designer from Peru, passionate about history, literature, and art.
-</p>
+</h2>
 
 <!-- Technologies section -->
 <h3 align="center">Technologies I Use</h3>
@@ -31,20 +31,6 @@
   <img src="https://img.shields.io/badge/Customer%20Service-29A19C.svg?logo=customer-service&logoColor=white" alt="Customer Service" />
 </p>
 
-<h3 align="center">Experience</h3>
-<p align="center">
-  <strong>2025</strong> - Neurozett<br/>
-  Technical documentation of web projects, development, and formulation.<br/>
-  Tools: Starlight (Astro), Excalidraw, Obsidian.
-</p>
-<p align="center">
-  <strong>2024</strong> - Freelancer<br/>
-  Design of flyers, catalogs, and logos in Figma for various clients.
-</p>
-<p align="center">
-  <strong>2023</strong> - Call Center<br/>
-  Customer service in collections, strengthening social and communication skills.
-</p>
 
 <h3 align="center">Contact</h3>
 <p align="center">
