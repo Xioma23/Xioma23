@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Xiomara%20Beatriz%20Alan%20Lombardi;Front%20End%20Developer%20and%20Graphic%20Designer;Passionate%20about%20Art%2C%20History%20and%20Literature&font=Fira%20Code&center=true&width=500&height=45&color=E56E8A&vCenter=true&size=22" /></a>
 </p>
 
-<!-- Short description -->
-<p align="center">
-  front-end developer and graphic designer
-</p>
 
 <!-- Technologies section -->
 <h3 align="center">Technologies I Use</h3>
