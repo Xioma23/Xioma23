@@ -6,7 +6,7 @@
 
 <!-- Short description -->
 <p align="center">
-  I'm Xiomara, a front-end developer and graphic designer
+  front-end developer and graphic designer
 </p>
 
 <!-- Technologies section -->
